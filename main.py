@@ -17,3 +17,7 @@ descriptions = [
 ]
 
 # Write your solution below
+selection = int(input("Choose an animal: "))
+index = selection - 1
+print(animals[index])
+print(descriptions[index])
