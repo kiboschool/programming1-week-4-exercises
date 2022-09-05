@@ -51,6 +51,13 @@ So the loop prints out the animals and the numbers.
 
 `enumerate` is a handy function to remember, in case you need the index of each element in a list when you're looping over it with `for`!
 
+## Testing
+
+First, try your program interactively with `python3 main.py`. Try out different
+numbers and make sure the output looks right.
+
+Then, test your program with `python3 test.py`.
+
 ## Credits
 
 Descriptions from Wikipedia.
