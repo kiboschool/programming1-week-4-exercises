@@ -8,11 +8,16 @@ In this task, you'll ask the user for five words, then display the longest word.
 
 Print it out.
 
-Run your code to see that it works. Also, run the unit tests to check that your code is correct.
 
 Here's what the program should look like when run:
 
-![](77E86E7A-1743-4D87-A97B-7685363C77EC-2037-00036EA0E5B30342.png)
+![](sample-run.png)
+
+## Testing
+
+First, run your code and enter sample words to see that it works. 
+
+Then, run the unit tests to check that your code is correct.
 
 # Hints
 
