@@ -4,7 +4,12 @@ Use a loop to find the average of a list of numbers.
 
 To find the average (or 'arithmetic mean'), you add up all the numbers and divide by how many numbers there are.
 
-Run the tests to check your solution. They won't tell you the right answer, but printing the right answer should pass the tests.
+## Testing
+
+First, try commenting out the initial list, and testing your loop with lists
+with averages that you know. The list `[1]` should have an average of 1, the list `[1,2,3]` should have an average of `2`, etc.
+
+Then, uncomment the list and run the tests to check your solution.
 
 ## Hints
 
