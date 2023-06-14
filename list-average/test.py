@@ -8,7 +8,7 @@ from gradescope_utils.autograder_utils.decorators import weight
 
 class Test(TestCase):
     @patch('builtins.print')
-    @weight(5)
+    @weight(1)
     def test_output(self, mock_print):
         import main
         self.assertAlmostEqual(mock_print.call_args[0][0], 39.903, 3)
