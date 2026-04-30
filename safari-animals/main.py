@@ -16,3 +16,11 @@ descriptions = [
 ]
 
 # Write your solution below
+choice = int(input("Choose an animal: "))
+
+# Convert user choice to correct index (subtract 1)
+index = choice - 1
+
+# Print the selected animal and its description
+print(animals[index])
+print(descriptions[index])
